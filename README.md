@@ -19,3 +19,13 @@ exploratory data analysis (EDA) is conducted to gain insights into the data, vis
 ### 4. Model Building and Selection
 In the model building and selection phase, various machine learning models, such as Extra Trees Classifier and Voting Classifier, are trained and evaluated using accuracy, precision, recall, and F1-score metrics. Cross-validation is used to select the model with the best performance.
 
+## Results
+
+The trained model achieved an **accuracy of 97.10 %** and **Precision is 100 %** on the test set and performed well in terms of precision, recall, and F1-score.
+
+| Metric     | Score |
+|------------|-------|
+| Accuracy   | 97.10 %   |
+| Precision | 100 %   |
+| Recall     | 76.19 %   |
+| F1-score   | 86.49 %   |
